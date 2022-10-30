@@ -1,0 +1,6 @@
+name: blast
+channels:
+  - defaults
+  - bioconda
+dependencies:
+  - blast
