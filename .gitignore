@@ -1,3 +1,5 @@
 blast_result
 sequences
 top_hits
+work/*
+.nextflow*
